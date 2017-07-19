@@ -1,7 +1,7 @@
 package com.hbase.simple_get;
 
 /**
- * Hello world!
+ * Hellworld!
  *
  *hello for hbasesaved
  *
