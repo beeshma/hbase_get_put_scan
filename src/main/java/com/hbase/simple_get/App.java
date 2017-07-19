@@ -3,7 +3,7 @@ package com.hbase.simple_get;
 /**
  * Hello world!
  *
- *hello for hbase
+ *hello for hbase saved
  *
  */
 public class App 
